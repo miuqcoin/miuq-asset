@@ -1,0 +1,12 @@
+{
+    "name": "Miuqcoin",
+    "symbol": "MIUQ",
+    "description": "Miuqcoin On Solana",
+    "image": "https://raw.githubusercontent.com/miuqcoin/miuq-asset/main/image.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
